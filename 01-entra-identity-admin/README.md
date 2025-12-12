@@ -139,6 +139,7 @@ SSPR could not be fully tested due to licensing limitations and
 missing authentication method prerequisites in Entra Free.
 This is common in real IAM environments with restricted licensing.
 
+
 📸 Screenshots of the work are shown step by step demonstrating the lab performed
 
 
