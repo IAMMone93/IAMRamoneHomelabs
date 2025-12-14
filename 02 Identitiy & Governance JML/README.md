@@ -1,3 +1,5 @@
+<img width="567" height="753" alt="Screenshot 2025-12-13 at 6 56 24 PM" src="https://github.com/user-attachments/assets/eb50e578-0727-4197-8008-53aaf66cd9f1" />
+
 Lab 2 — Identity Governance & Access Operations (JML)
 
 Objective
@@ -26,5 +28,5 @@ Key IAM Concepts
 - Access Governance
 
 Evidence
-Screenshots and Jira tickets are stored in the `/screenshots` folder.
+Screenshots and Jira tickets are stored in the screenshots folder.
 
